@@ -1,0 +1,19 @@
+{
+  "name": "fav-fonts-tier-3",
+  "version": "1.0.0",
+  "description": "fav fonts for tier 3",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fav-fonts-tier-3"
+  },
+  "author": "Cori M",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
